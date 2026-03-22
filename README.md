@@ -10,4 +10,4 @@ apt update -y
 
 | Package | Descriptions |
 | ------ | ------ |
-| [IG_PHISHING] (https://github.com/venom-24/IG_phishing) | pentestingherramienta de phishing |
+| [IG_PHISHING] (https://github.com/venom-24/IG_phishing) | pentesting herramienta de phishing |

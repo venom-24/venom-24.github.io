@@ -10,5 +10,5 @@ apt update -y
 
 | Package | Descriptions |
 | ------ | ------ |
-| [AIRCRACK-NG](https://github.com/venom-24/rsf_venom24) | pentesting herramienta de phishing |
-| [ZIPALIGN](https://github.com/venom-24/termux_zipalign) |tool para embed |
+| [aircrack-ng](https://github.com/venom-24/rsf_venom24) | pentesting herramienta de phishing |
+| [zipalign](https://github.com/venom-24/termux_zipalign) |tool para embed |

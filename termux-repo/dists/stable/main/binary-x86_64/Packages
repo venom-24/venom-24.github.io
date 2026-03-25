@@ -1,15 +1,17 @@
-Package: aircrack-ng
+Package: zipalign
 Architecture: x86_64
-Installed-Size: 2212
-Maintainer: Marlin Sööse <marlin.soose@laro.se>
-Version: 3:1.7
-Homepage: https://www.aircrack-ng.org/
-Depends: libc++, libnl, libpcap, libsqlite, openssl, pcre, zlib
-Description: WiFi security auditing tools suite
-Filename: dists/stable/main/binary-x86_64/aircrack-ng_3_1.7_x86_64.deb
-Size: 461648
-MD5Sum: e5d4a8e60c8efa73a995daee59b241e5
-SHA1: 360a226abaa4fa1753d4f7e97e53d5020165def1
-SHA256: c2b3eb12acfa687b47ba8b9f89f186e2e6a1eddbe261cc592187af91ec018019
-SHA512: e386049c705e2285ec24a131bdc35857138756e4b62ca92d168ef7705dec9b314d7081d9a53a3d214871d633df9a81d7611ad7297a4d86938ce890b705aa5d50
+Installed-Size: 1395
+Breaks: aapt
+Conflicts: aapt
+Replaces: aapt
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 34.0.0
+Homepage: https://github.com/rendiix/termux-zipalign
+Description: zip archive alignment tool
+Filename: dists/stable/main/binary-x86_64/zipalign_34.0.0_x86_64.deb
+Size: 168292
+MD5Sum: 429a1f2d25abd05300cd4d2944ed7786
+SHA1: 0baa31b08109cbea184aa57e07ee893bd7f810fd
+SHA256: 327a8e344288658f6b3707b9f3f3e0b90f2ac4d886cf0321837e7a15e4218376
+SHA512: 679f98c98bf737cb850cbdd89a0a9156ead3f70313f0435c96cf69035d9ee2d0f2fdec3c4f89a51992afc8b041211b5d8b3b325afbfbc4daa5a75b8de6431cd4
 

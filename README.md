@@ -9,8 +9,8 @@ wget https://raw.githubusercontent.com/venom-24/venom-24.github.io/refs/heads/ma
 chmod 777 installer_repo.sh
 bash installer_repo.sh
 ```
-### Ejemplo de instalación del paquete
-apt install aircrack-ng -y
+#### Ejemplo de instalación del paquete
+$ apt install aircrack-ng -y
 Reading package lists... Done
 Building dependency tree... Done
 Reading state information... Done

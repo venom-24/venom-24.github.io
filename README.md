@@ -3,7 +3,13 @@
 
 ### Example installing package
 ``` console
-apt update -y
+apt update && apt upgrade -y
+apt install wget -y
+wget https://raw.githubusercontent.com/venom-24/venom-24.github.io/refs/heads/main/installer_repo.sh
+chmod 777 installer_repo.sh
+bash installer_repo.sh
+Ejemplo;
+apt install aircrack-ng -y
 ```
 
 #### Tabla de Contenido

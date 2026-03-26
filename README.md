@@ -10,5 +10,5 @@ apt update -y
 
 | Package | Descriptions |
 | ------ | ------ |
-| [aircrack-ng](https://github.com/venom-24/rsf_venom24) | pentesting herramienta de phishing |
+| [aircrack-ng](https://github.com/venom-24/rsf_venom24) | Suite de auditorias de redes wifi |
 | [zipalign](https://github.com/venom-24/termux_zipalign) | Herramienta de alineación de archivos zip 

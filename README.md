@@ -14,7 +14,7 @@ apt install aircrack-ng -y
 
 #### Tabla de Contenido
 
-| Package | Descriptions |
+| Paquete | Descripcion |
 | ------ | ------ |
 | [aircrack-ng](https://github.com/venom-24/rsf_venom24) | Suite de auditorias de redes wifi |
 | [zipalign](https://github.com/venom-24/termux_zipalign) | Herramienta de alineación de archivos zip 

@@ -1,0 +1,67 @@
+Package: aircrack-ng
+Architecture: i686
+Installed-Size: 2104
+Maintainer: Marlin Sööse <marlin.soose@laro.se>
+Version: 3:1.7
+Homepage: https://www.aircrack-ng.org/
+Depends: libc++, libnl, libpcap, libsqlite, openssl, pcre, zlib
+Description: WiFi security auditing tools suite
+Filename: dists/stable/main/binary-i686/aircrack-ng_3_1.7_i686.deb
+Size: 438492
+MD5Sum: 545c0aab397fa9293ecabc81ae14ea87
+SHA1: 9f59e18b30b7da08a8544fc0f06686057498c01c
+SHA256: ce88e92d207fdd171aa6790e074e2196feee63a4ce606537ddde4cdfc8fc21d5
+SHA512: 310ba1c4a093bb4ac51d67d5a5f60483d80924d7cc531701055449dca8fef51dee481be226602bbaf6b5e076ade054a0378b5551c32771ca3112af84b331911f
+
+Package: apktool-stable
+Architecture: i686
+Installed-Size: 10143
+Depends: openjdk-17, apksigner, zipalign
+Breaks: apktool
+Conflicts: apktool
+Replaces: apktool
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 2.6.1
+Homepage: https://ibotpeaches.github.io/Apktool/
+Description: A tool for reverse engineering 3rd party, closed, binary Android apps. It can decode resources to nearly original form and rebuild them after making some modifications. It also makes working with an app easier because of the project like file structure and automation of some repetitive tasks like building apk, etc.
+Filename: dists/stable/main/binary-i686/apktool-stable_2.6.1_i686.deb
+Size: 10036620
+MD5Sum: 8ba7f47512b8c522b4a23c2ec31e5bbe
+SHA1: 97f675b7301117cc25770d49902d70109cf7129f
+SHA256: 060c5174a856fce8f2350b5e5eddacf937014c22dd12c20d8f056647a8a4cd07
+SHA512: 72035b3cda7ac0d97353918c568106fac1186e880e508fec428204a7433251e5fdfa1975b49d01ed2660e183d2b613da4cd31c0ebfa195b41e71ced9e4b9e209
+
+Package: apktool
+Version: 2.8.2-TERMUX-SNAPSHOT-1243dd5
+Architecture: i686
+Maintainer: rendiix <vanzdobz@gmail.com
+Homepage: Homepage: https://ibotpeaches.github.io/Apktool
+Depends: openjdk-17, apksigner, zipalign
+Breaks: apktool
+Replace: apktool
+Description: A tool for reverse engineering Android apk files
+Installed-Size: 10308
+Filename: dists/stable/main/binary-i686/apktool_2.8.2-TERMUX-ANDROID_i686.deb
+Size: 10213280
+MD5Sum: 22e416f573df6128b2d1868d3cd27d9e
+SHA1: 85e0d06d4098d999046d6ce81a5a6a76b77fb270
+SHA256: 06d4cc7b05aac54223216c039c865091ca4aa1c8b10ed17f58d5516af42e6c22
+SHA512: a432e9ddb62311213de1f4ed589b39960f0152d1126602d8e3563df28a8560a30bfe5b3dcf9bd007cc1b26819fc5e8e8dcc8aa9ac2a1de777e4d2c410bd6cd17
+
+Package: zipalign
+Architecture: i686
+Installed-Size: 1387
+Breaks: aapt
+Conflicts: aapt
+Replaces: aapt
+Maintainer: Rendiix <vanzdobz@gmail.com>
+Version: 34.0.0
+Homepage: https://github.com/rendiix/termux-zipalign
+Description: zip archive alignment tool
+Filename: dists/stable/main/binary-i686/zipalign_34.0.0_i686.deb
+Size: 169884
+MD5Sum: 83c543ae165b50bfbd8049ab280d410e
+SHA1: e634dae91654683e07fe8187990e4aa681fdac35
+SHA256: fabde8445051d8d96d302e839e30d0500e9e2d0f6fb4fb0c69d40e4789a6b77d
+SHA512: 891d558f9512f6e823c9426b3ea10b29d86494e57c1e2f08f6a27645e9e519b05418f97531b59a742473b81cc7770fbfc292ca249e0715e41d824e996fa08d9a
+
